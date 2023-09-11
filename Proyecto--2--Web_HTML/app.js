@@ -1,0 +1,2 @@
+/* No hice uso como tal el lenguaje de JS porque solo utilicé hipervícnulos para poderme desfazar en la página web, también podría hacer uso 
+de JS para hacerlo pero se me hizo un poquito más rápida la manera de trabajarlo con HTML y CSS.*/
